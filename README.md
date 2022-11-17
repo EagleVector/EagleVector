@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">AI RESEARCHER</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaglevector&label=Profile%20views&color=0e75b6&style=flat" alt="eaglevector" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eaglevector" alt="eaglevector" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Deep learning**
 
-- 👯 I’m looking to collaborate on **machine learning projects**
+- 👯 I’m looking to collaborate on **Deep learning projects**
 
 - 🤝 I’m looking for help with **deep learning projects**
 
-- 💬 Ask me about **python, stats, ml, pandas, SQL**
+- 💬 Ask me about **python, stats, ml, pandas, SQL, dl, cv**
 
 - 📫 How to reach me **kumarsubhambili3@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
