@@ -8,8 +8,8 @@ Hi, I'm Subham Kumar, a passionate Data Scientist. I am enhancing my knowledge w
 <h2 align="left">📈 My GitHub Stats </h2>
 
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user= EagleVector&show_icons=true&theme=gotham" alt="EagleVector" width="300" />
-  <img  src="https://github-readme-stats.vercel.app/api?username= EagleVector&show_icons=true&theme=gotham" alt="EagleVector" width="300" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=EagleVector&show_icons=true&theme=gotham" alt="EagleVector" width="300" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=EagleVector&show_icons=true&theme=gotham" alt="EagleVector" width="300" />
  </p>
 <br>
 <h2 align="left"> 👨‍💻 Languages and Tools:</h3>
