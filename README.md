@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EagleVector&label=Profile%20views&color=0e75b6&style=flat" alt="EagleVector" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EagleVector" alt="EagleVector" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack and Cloud Computing**
 
 - 🌱 I’m currently learning **NextJS & Amazon Web Services**
