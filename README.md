@@ -47,7 +47,7 @@ I am a professional full stack web developer and AI enthusiast from India. I am 
 
 ### Get in touch !
 <p>
-  <a href="https://twitter.com/EagleVector" style="text-decoration: none">
+  <a href="https://twitter.com/Eagle_Vector" style="text-decoration: none">
       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/subham-kumar-0b79ba139/" style="text-decoration: none">
